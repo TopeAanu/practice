@@ -1,3 +1,3 @@
 ## A basic project (practice)
 
-Playing around with float, a css basic feature. 
+Playing around with float, a basic css feature. 
